@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PizzeriaPage/static/css/main.38e13348.chunk.css",
+    "main.js": "/PizzeriaPage/static/js/main.dda36dd3.chunk.js",
+    "main.js.map": "/PizzeriaPage/static/js/main.dda36dd3.chunk.js.map",
+    "runtime-main.js": "/PizzeriaPage/static/js/runtime-main.8ae3ae69.js",
+    "runtime-main.js.map": "/PizzeriaPage/static/js/runtime-main.8ae3ae69.js.map",
+    "static/js/2.ff033d89.chunk.js": "/PizzeriaPage/static/js/2.ff033d89.chunk.js",
+    "static/js/2.ff033d89.chunk.js.map": "/PizzeriaPage/static/js/2.ff033d89.chunk.js.map",
+    "index.html": "/PizzeriaPage/index.html",
+    "static/css/main.38e13348.chunk.css.map": "/PizzeriaPage/static/css/main.38e13348.chunk.css.map",
+    "static/js/2.ff033d89.chunk.js.LICENSE.txt": "/PizzeriaPage/static/js/2.ff033d89.chunk.js.LICENSE.txt",
+    "static/media/Header.module.css": "/PizzeriaPage/static/media/header1.233079b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae3ae69.js",
+    "static/js/2.ff033d89.chunk.js",
+    "static/css/main.38e13348.chunk.css",
+    "static/js/main.dda36dd3.chunk.js"
+  ]
+}
