@@ -17,3 +17,12 @@
   font-weight: normal;
   margin-top: 0;
 }
+
+@media (max-width: 1000px) {
+  .summary h2 {
+    font-size: 1.5rem;
+  }
+  .summary p {
+    color: #ddd;
+  }
+}
